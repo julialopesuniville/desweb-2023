@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Documento HTML mínimo</title>
+    <meta charset="utf-8">
+ </head>
+ <body>
+    <h1> Lista com HTML </h1>
+    <h2> Listas não ordenadas </h2>
+    <ul>
+      <li>Carro</li>
+      <li>Cores</li>
+      <li>Paises</li>
+      <li>Frutas</li>
+  </ul>
+ </body>
+</html>
